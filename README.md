@@ -1,2 +1,2 @@
 # Jupyter_Book
-Learning jupyter books
+Just me learning jupyter books
